@@ -48,7 +48,7 @@ onMounted(() => {
                       </ul>
         </section>
   </footer>
-  </div>
+    </div>
 </template>
 
 
