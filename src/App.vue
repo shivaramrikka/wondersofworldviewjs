@@ -11,6 +11,7 @@ onMounted(() => {
 </script>
 
 <template>
+  <div>
   <header>
     <Navbar />
   </header>
@@ -45,9 +46,11 @@ onMounted(() => {
                                       src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" />
                                   </a></li>
                       </ul>
-                  </section>
+        </section>
   </footer>
+  </div>
 </template>
+
 
 <style scoped>
 header, footer {
