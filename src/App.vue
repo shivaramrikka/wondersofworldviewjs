@@ -11,6 +11,7 @@ onMounted(() => {
 </script>
 
 <template>
+  <div>
   <header>
     <Navbar />
   </header>
@@ -47,6 +48,7 @@ onMounted(() => {
                       </ul>
                   </section>
   </footer>
+    </div>
 </template>
 
 <style scoped>
